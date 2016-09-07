@@ -1,0 +1,34 @@
+{
+    "name": "darovi/laravelslackinvite",
+    "description": "A Slack user invite service provider for Laravel",
+    "keywords": ["laravel", "slack", "invite"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Rovito",
+            "email": "dan@darovi.co"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+          "Darovi\\LaravelSlackInvite\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0-dev"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*",
+        "laravel/framework": "5.3.*"
+    }
+}
