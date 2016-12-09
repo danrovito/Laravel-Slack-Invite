@@ -1,5 +1,4 @@
 # Laravel Slack Invite 
-A Slack user invite service provider for Laravel. Example: https://opendevops.co/chat
 
 [![Latest Stable Version](https://poser.pugx.org/darovi/laravelslackinvite/v/stable?format=flat)](https://packagist.org/packages/darovi/laravelslackinvite) [![Total Downloads](https://poser.pugx.org/darovi/laravelslackinvite/downloads?format=flat)](https://packagist.org/packages/darovi/laravelslackinvite) [![License](https://poser.pugx.org/darovi/laravelslackinvite/license?format=flat)](https://packagist.org/packages/darovi/laravelslackinvite) [![StyleCI](https://styleci.io/repos/67619777/shield)](https://styleci.io/repos/67619777) [ ![Codeship Status for Darovi/LaravelSlackInvite](https://codeship.com/projects/9ab07ed0-4dc0-0134-3701-266445f4b7e3/status?branch=master)](https://codeship.com/projects/170616)
 
