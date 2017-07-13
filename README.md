@@ -7,7 +7,7 @@
 To get started you must first install the package from composer.
 
 ```
-composer require darovi/laravelslackinvite
+composer require danrovito/laravelslackinvite
 ```
 
 Add the following to your `.env` file 
