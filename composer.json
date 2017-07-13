@@ -1,12 +1,12 @@
 {
-    "name": "darovi/laravelslackinvite",
+    "name": "danrovito/laravelslackinvite",
     "description": "A Slack user invite service provider for Laravel",
     "keywords": ["laravel", "slack", "invite"],
     "license": "MIT",
     "authors": [
         {
             "name": "Dan Rovito",
-            "email": "dan@darovi.co"
+            "email": ""
         }
     ],
     "require": {
